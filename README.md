@@ -15,7 +15,7 @@ This repository contains the official codebase and experimental framework accomp
 
 **Karthik Raj Panuganti**  
 
-OSI Preprint : ![Preprint](https://osf.io/cx629/files/ut73f)
+OSI Preprint : https://osf.io/cx629/files/ut73f
 
 ---
 
