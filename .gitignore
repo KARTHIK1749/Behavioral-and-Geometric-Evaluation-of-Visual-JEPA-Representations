@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Secrets & API keys
+.env
+*.key
+*.secret
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / checkpoints (large)
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Datasets (private / large)
+data/raw/
+data/videos/
+data/processed/
+
+# Generated results & plots
+
+# Experiment logs
+logs/
+wandb/
+
+# LaTeX build clutter
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+
+# Temporary / backup
+*.tmp
+*.bak
